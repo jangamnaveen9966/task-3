@@ -1,0 +1,71 @@
+{
+"profiles":[
+{
+"basics":{
+"name":"navven",
+"role":"Student",
+"email":"naveentopu2@gmail.com",
+"mobile":"63012123134",
+"gender":"male",
+"address":"vijayawada"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"99"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"topu  College",
+                    "result":"96%"
+},
+{
+                    "degree":"S.S.C",
+                    "institute":"great school",
+                    "result":"100%"
+}
+
+
+]
+},
+   {
+    "basics":{
+"name":"balakrishna",
+"role":"Student",
+"email":"balakrishna@gmail.com",
+"mobile":"345345345",
+"gender":"male",
+"address":"vijayawada,Andhra pradesh"
+
+},
+"summery":[
+"studying in lbrce clg in cse department."
+],
+"education":[
+{
+                    "degree":"B-Tech (Computer Science and Engineering)",
+                    "institute":"Lakireddy balireddy College of Engineering",
+                    "result":"95"
+},
+{
+                    "degree":"Intermediate in MPC",
+                    "institute":"bala College",
+                    "result":"98"
+},
+{
+                    "degree":"ssc school",
+                    "institute":"krishna school",
+                    "result":"98%"
+}
+
+
+]
+   }
+
+]
+}  
